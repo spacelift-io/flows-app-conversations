@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "version": "0.1.0",
+      "artifactUrl": "https://github.com/spacelift-io/flows-app-conversations/releases/download/v0.1.0/bundle.tar.gz",
+      "artifactChecksum": "sha256:7bd6173a35a4d961b3d7ab867a7b3afb465b8daef93ab582e4da28db2f3f4152"
+    }
+  ]
+}
