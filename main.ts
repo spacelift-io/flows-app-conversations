@@ -3,6 +3,7 @@ import { recordMessage } from "./blocks/recordMessage";
 import { getConversation } from "./blocks/getConversation";
 
 export const app = defineApp({
+  autoconfirm: true,
   name: "Conversations",
   config: {
     ttl: {
